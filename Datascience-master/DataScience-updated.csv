@@ -1,0 +1,178 @@
+Gender,Age,Income,Landmark,Location,Shopping site,Payment Method,Budget,Shopping preference,Category
+Female,30,50000,Tiwari Pur, Bhayandar,Amazon,Credit Card,5000,During festivals,Fashion and Lifestyle
+Male,22,20000, Central park, Nallasopara,Amazon,UPI,3000,Does not matter,"Computer, mobile, accessories"
+Male,21,75000,Mira Road, Thane,Amazon,Cash,5000,During Sales,Home and Electronics
+Male,23,50000, Kapurbawdi,Thane,Both,UPI,3000,During festivals,Home and Electronics
+Male,21,20000,Lakshmi park,Thane,Flipkart,UPI,3000,During Sales,"Computer, mobile, accessories"
+Female,20,20000,Harkesh, Mira road ,Amazon,UPI,5000,During Sales,Fashion and Lifestyle
+Male,25,100000,Kandiwali, Borivali,Amazon,Credit Card,10000,Regularly,Sports and fitness
+Male,21,20000,FatherwadiGokhiware Road, Vasai,Amazon,Credit Card,3000,Does not matter,Requirement of accessories or appliances 
+Male,23,50000,Colaba, Mumbai,Amazon,Credit Card,5000,Does not matter,Personal health and grooming
+Male,20,100000, Ashok Nagar, Kandivali,Amazon,Cash,5000,During festivals,"Computer, mobile, accessories"
+Male,20,75000,Mahajan wadi mira gaothan, Mira road ,Amazon,Cash,3000,During festivals,Sports and fitness
+Male,20,50000,Vasai, Palghar,Myntra,Cash,3000,During Sales,Fashion and Lifestyle
+Male,21,20000,Kandivali,Mumbai,Amazon,Cash,5000,Regularly,Home and Electronics
+Male,21,100000,Dada Pandey comp, Dahisar,Amazon,Cash,5000,During Sales,"Computer, mobile, accessories"
+Male,20,100000,Poonam Garden, Mira road ,Amazon,Credit Card,3000,During Sales,"Computer, mobile, accessories"
+Male,19,50000,Vijay park, Mira road ,Flipkart,UPI,5000,During festivals,Fashion and Lifestyle
+Male,20,100000,Mira Road, Mumbai,Amazon,UPI,7000,Does not matter,Fashion and Lifestyle
+Male,36,50000,Mira bhyandar, Thane,Amazon,UPI,3000,During festivals,Home and Electronics
+Male,21,100000, Gorai , Borivali,Amazon,UPI,5000,Regularly,"Computer, mobile, accessories"
+Female,19,100000,Gorai ,Borivali ,Amazon,Cash,5000,During Sales,Fashion and Lifestyle
+Male,20,20000, S.k road, Dahisar,Flipkart,Debit Card,10000,During Sales,"Computer, mobile, accessories"
+Female,22,100000,Rajashree Shahu Nagar, Nanded,Amazon,Cash,3000,Regularly,Home and Electronics
+Male,20,20000,SIT college, Tumkur ,Amazon,UPI,3000,During festivals,Fashion and Lifestyle
+Male,21,75000, Evershine , Andheri,Amazon,Debit Card,3000,Regularly,"Computer, mobile, accessories"
+Female,23,20000,Gubbi, Tumkur,Amazon,Credit Card,3000,Does not matter,Stationary
+Female,35,20000,Moreshwar complex, Navi-Mumbai ,Amazon,UPI,3000,During festivals,Fashion and Lifestyle
+Female,30,100000,Yashwant Gaurav, Nallasopara,Amazon,UPI,5000,Does not matter,Home and Electronics
+Female,32,20000,Ganesh park, Andheri,Amazon,Cash,3000,During festivals,Fashion and Lifestyle
+Female,31,20000,Ganesh Nagar, Bareilly,Amazon,Cash,3000,During festivals,Groceries
+Female,19,100000,Bhayander west, Mumbai,Myntra,Cash,3000,Does not matter,Fashion and Lifestyle
+Male,20,100000,Queens park, Mira road,Amazon,Debit Card,10000,Does not matter,Cars and Bikes
+Female,20,100000,Mayor's bunglow, Mira road,Amazon,Cash,3000,Does not matter,Fashion and Lifestyle
+Male,42,100000,Hinjewadi phase 1, Pune,Amazon,Credit Card,3000,During festivals,Groceries
+Female,36,20000,Hinjewadi Phase1, nagpur,Ajio,UPI,3000,During festivals,Fashion and Lifestyle
+Female,21,20000,Bazar ward, Virar ,Amazon,Cash,3000,Does not matter,Fashion and Lifestyle
+Male,34,100000,Priyanagar, Virar,Amazon,Credit Card,5000,Does not matter,Fashion and Lifestyle
+Male,18,20000,Rajesh park, Mulund,Amazon,UPI,3000,Does not matter,"Computer, mobile, accessories"
+Male,18,20000,Raj park, Ram Mandir,Amazon,Debit Card,5000,Does not matter,Home and Electronics
+Male,19,20000,Sai nagar, Kandivali,Amazon,Cash,3000,During Sales,Home and Electronics
+Male,20,20000,Sarojini naidu road, Kandivali,Amazon,UPI,5000,During festivals,Fashion and Lifestyle
+Male,19,50000,Queen's Park, Mira Bhayandar,Flipkart,UPI,10000,During festivals,"TV's, appliances"
+Female,20,100000,Shanti Park, Mira road,Amazon,Cash,5000,During festivals,Fashion and Lifestyle
+Female,20,20000,Harshit nagar, Malad,Amazon,Debit Card,3000,During festivals,Fashion and Lifestyle
+Male,19,20000,Padmavati nagar, Virar,Amazon,UPI,3000,Regularly,Fashion and Lifestyle
+Female,20,20000,Jay nagar, Vasai,Flipkart,Cash,3000,During festivals,Fashion and Lifestyle
+Male,21,100000, Tharagupet, Mamulpet,Flipkart,Debit Card,5000,During festivals,Fashion and Lifestyle
+Male,20,20000,Ganigarpet, Bangalore,Flipkart,Credit Card,5000,Regularly,Home and Electronics
+Male,55,75000,Marine line, Churchgate,Flipkart,UPI,5000,Does not matter,Home and Electronics
+Male,25,75000,Ellora Park, Andheri,Flipkart,UPI,7000,Does not matter,Personal health and grooming
+Others,85,50000,Surya shopping centre, Mira road,Amazon,Credit Card,10000,During festivals,Fashion and Lifestyle
+Female,24,50000,Linghi Chetty St, Bandra,Tata Cliq,Debit Card,7000,Regularly,Sports and fitness
+Male,45,20000,Jp Nagar, Borivali,Amazon,Debit Card,3000,During festivals,"TV's, appliances"
+Male,45,100000, SV road, Borivali,Myntra,Debit Card,10000,Regularly,Cars and Bikes
+Female,45,100000,Shopping Complex Comm, Delhi,Flipkart,Credit Card,3000,Does not matter,"Computer, mobile, accessories"
+Female,27,100000,Arundeep, Vadodara,Ajio,Cash,5000,During festivals,Fashion and Lifestyle
+Male,34,50000, Anna Nagar, Chennai,Flipkart,UPI,7000,Does not matter,Personal health and grooming
+Female,24,50000,Ramsingh park, Virar,Ajio,Cash,3000,Does not matter,baby
+Male,77,100000,Girgaum, Mumbai,Flipkart,Cash,7000,Does not matter,Home and Electronics
+Others,90,100000,Indranagar, powai,Zara,Credit Card,10000,Does not matter,Fashion and Lifestyle
+Female,57,75000,Satellite, Ahmedabad,Flipkart,Debit Card,7000,Regularly,Personal health and grooming
+Female,22,75000,Relief Road, Ahmedabad,Nike store,Debit Card,10000,During Sales,Fashion and Lifestyle
+Female,65,100000,Swami naryan mandir, Thane,h&m,Cash,7000,Regularly,Fashion and Lifestyle
+Female,24,50000,Naroda, Ahmedabad,Amazon,Debit Card,7000,Does not matter,Sports and fitness
+Male,25,75000,Nr Satellite Tower, Ahmedabad,Flipkart,Cash,7000,Regularly,Home and Electronics
+Female,40,100000,Connaught Place, Delhi,Supreme Computers,Cash,7000,Does not matter,"Computer, mobile, accessories"
+Male,55,50000,Gorgoan, Mumbai,walmart,Credit Card,10000,During Sales,Personal health and grooming
+Female,35,50000,Second Pasta Lane, Mumbai,Snapdeal,Cash,7000,During festivals,Personal health and grooming
+Male,23,50000,Nagu Sayaji Wadi, Mumbai,Flipkart,Debit Card,10000,During festivals,Fashion and Lifestyle
+Female,46,20000,Balwadi fish market, Mumbai,Amazon,Cash,3000,During Sales,Home and Electronics
+Male,27,50000,Gandhi Nagar, Mumbai,Amazon,Credit Card,10000,Regularly,"Computer, mobile, accessories"
+Male,26,50000,Pooja Plaza, Bangalore,Ajio,Credit Card,7000,During Sales,Home and Electronics
+Female,78,75000,Sam park, Navi-Mumbai  ,Flipkart,UPI,5000,Does not matter,Fashion and Lifestyle
+Male,29,50000,S R Lane Cottonpet, Bangalore,Amazon,Cash,10000,During festivals,"Computer, mobile, accessories"
+Male,35,20000,Char Bangla, Andheri,gucci,Credit Card,10000,Does not matter,Fashion and Lifestyle
+Female,25,100000,S P Mukherjee Marg, Delhi,Amazon,Credit Card,10000,During Sales,"TV's, appliances"
+Male,25,100000,Sath bangala, Andheri,prada,Credit Card,10000,Does not matter,Personal health and grooming
+Male,25,100000,Azaad Nagar, Andheri,Amazon,UPI,10000,Does not matter,"Computer, mobile, accessories"
+Male,23,50000,Rly Fathak, Dahisar,Flipkart,UPI,3000,During Sales,Fashion and Lifestyle
+Male,39,75000,Daji Patel Chwl, Mumbai,Olx.com,Debit Card,10000,During festivals,Office Product
+Female,35,75000,Chakala, Andheri,Amazon,Net Banking,10000,During Sales,"Computer, mobile, accessories"
+Male,55,100000,S.V Road, Kandivali,Amazon,Debit Card,10000,Regularly,Home and Electronics
+Male,21,75000,Phase2, Delhi,Amazon,Debit Card,7000,Regularly,Home and Electronics
+Male,22,75000,5 City Point, Vadodara,Flipkart,Debit Card,5000,Does not matter,Groceries
+Female,25,100000, Ship deck, Colaba,Zara,Credit Card,10000,During festivals,"TV's, appliances"
+Female,24,75000,Opp Madhuram Hall, Mumbai,Flipkart,Debit Card,7000,During Sales,Home and Electronics
+Male,65,100000,Chandni chowk, Delhi,h&m,Debit Card,10000,Does not matter,Sports and fitness
+Female,26,100000,Pratap Talkies, Vadodara,Amazon,Debit Card,7000,Regularly,Personal health and grooming
+Female,56,100000,Turbhe,  Mumbai,Both,Net Banking,10000,During Sales,"TV's, appliances"
+Others,26,75000,Bandra fort, Bandra,prada,Credit Card,10000,Regularly,baby
+Female,25,75000, Goregaon, Mumbai,Flipkart,Credit Card,7000,During festivals,Groceries
+Female,23,100000,New Rohtak Road, Delhi,Amazon,Debit Card,3000,Regularly,Personal health and grooming
+Male,25,75000, Amar Palace Hotel, Mira Bhayandar ,Both,Debit Card,5000,During Sales,Sports and fitness
+Female,57,100000,Kiki banglow, Andheri,h&m,Credit Card,7000,During Sales,Groceries
+Female,27,75000,Rspuram, Coimbatore,Flipkart,Debit Card,5000,Regularly,Sports and fitness
+Male,30,100000,Turbhe, Mumbai,Both,Cash,7000,During festivals,Home and Electronics
+Female,33,75000,Nirman Bhawan, Delhi,Amazon,Debit Card,10000,Regularly,Personal health and grooming
+Female,35,75000,Bandstand, Bandra,gucci,Credit Card,10000,Does not matter,books
+Female,39,100000, Maninagar, Ahmedabad,Both,Net Banking,3000,During Sales,Fashion and Lifestyle
+Female,32,50000, Mahalaxmi, Mumbai,Amazon,UPI,10000,Regularly,Groceries
+Female,25,75000,Nirman Bhawan, Delhi,Amazon,Debit Card,7000,Regularly,Personal health and grooming
+Male,57,75000, Kashmere Gate, Delhi,Both,Net Banking,5000,Regularly,Groceries
+Male,48,100000,Naya nagar, Mira road,Zara,Credit Card,7000,Regularly,Personal health and grooming
+Male,24,75000, Sakinaka, Andheri,Amazon,Debit Card,7000,Does not matter,Sports and fitness
+Female,30,50000,Kilonagar, Malad,gucci,Cash,10000,During Sales,Fashion and Lifestyle
+Male,31,50000,Street Mahal, Mumbai,Both,Cash,7000,During festivals,"TV's, appliances"
+Male,25,50000,Sitladevi Temple Road, Mahim,Amazon,Debit Card,5000,Regularly,Sports and fitness
+Female,27,75000, Chembur Colony, Chembur,Flipkart,UPI,7000,Does not matter,"Computer, mobile, accessories"
+Female,28,75000,Gopal Bhavan, Santacruz,Flipkart,Debit Card,5000,Regularly,Sports and fitness
+Female,24,50000,Parsan Complex, Chennai,Flipkart,Debit Card,7000,During festivals,Fashion and Lifestyle
+Female,52,100000,Churchgate, Mumbai,Myntra,Net Banking,7000,Regularly,baby
+Others,25,75000,Grant Road, Mumbai,Ajio,Net Banking,10000,During festivals,"TV's, appliances"
+Female,28,20000,Peelamedu, Coimbatore,Ajio,UPI,7000,During festivals,Sports and fitness
+Female,24,75000, Kalkaji, Delhi,Flipkart,Cash,7000,During festivals,"TV's, appliances"
+Female,18,75000, Dadiseth Rd, Goregaon ,Snapdeal,Cash,7000,During Sales,Fashion and Lifestyle
+Female,32,75000, Khetwadi, Mumbai,JioMart,UPI,7000,Regularly,Groceries
+Female,24,20000, Panchwati, Ahmedabad,Meeshooo,Cash,3000,During Sales,Personal health and grooming
+Others,78,100000,Bheemgaon, Raipur,Zara,Cash,5000,During Sales,Home and Electronics
+Others,19,20000,JJ nagar, Mumbai,Zara,Credit Card,3000,During festivals,Personal health and grooming
+Others,20,100000,Goregoan, Mumbai,h&m,UPI,10000,Regularly,Groceries
+Female,21,75000,Tera ghar , Mumbai,walmart,Net Banking,10000,During Sales,Home and Electronics
+Others,22,75000,Miraroad, Thane,Both,Net Banking,5000,Regularly,Home and Electronics
+Female,23,20000,Dongiri, Surat,Olx.com,Cash,3000,During Sales,Home and Electronics
+Others,34,75000,Nalasopara, Palghar,Olx.com,Debit Card,7000,Does not matter,Sports and fitness
+Female,25,50000,Nalasopara, Palghar,Flipkart,UPI,7000,Does not matter,baby
+Male,25,100000,Nayanagar, Mira road ,Amazon,Credit Card,10000,Regularly,Sports and fitness
+Male,27,75000,Hatkesh, Bhayandar,Amazon,UPI,7000,Regularly,"Computer, mobile, accessories"
+Female,20,100000,Sai Ram tower, Vasai ,Ajio,UPI,10000,Regularly,Fashion and Lifestyle
+Female,25,100000,Seoul, Dharavi,Amazon,Credit Card,10000,During Sales,Home and Electronics
+Others,45,20000,Anurag bunglow, Andheri,gucci,Debit Card,7000,Regularly,Sports and fitness
+Female,31,100000,Namsin tower, Andheri,Amazon,Debit Card,10000,Does not matter,Personal health and grooming
+Male,28,75000,Shanti, Gorai,Flipkart,UPI,3000,During Sales,Home and Electronics
+Male,20,100000,Naigoan, Thane,Amazon,Cash,5000,During festivals,Fashion and Lifestyle
+Female,88,100000,Bandstand, Bandra,gucci,Credit Card,3000,Regularly,Groceries
+Female,25,75000,Tarkarli, Bharwandi,Urbanic,UPI,10000,Regularly,"TV's, appliances"
+Male,34,100000,Bhayander, Thane,Dmart,Cash,10000,During Sales,Groceries
+Male,20,75000,Kandivali, Mumbai,Amazon,UPI,3000,During festivals,Fashion and Lifestyle
+Female,25,75000,Malad, Mumbai,prada,Debit Card,7000,During festivals,baby
+Male,31,20000,Nallasopara, Palghar,D and g,Credit Card,7000,Does not matter,Home and Electronics
+Female,25,100000,Indraprast, Bandra,Ysl,Credit Card,10000,Does not matter,Personal health and grooming
+Female,64,75000,Chota Bheem,Dholkapur,Zara,Net Banking,5000,Regularly,kindle book
+Others,34,20000,Goregaon, Mumbai,Pantaloons,Credit Card,7000,Does not matter,"Computer, mobile, accessories"
+Others,40,50000,Virar, Palghar,Trends,Debit Card,7000,During Sales,Sports and fitness
+Female,22,20000,Hypercity, Andheri,prada,Net Banking,5000,During festivals,Sports and fitness
+Others,25,75000,Jhopadpati, Dharavi,Meeshooo,Cash,5000,During Sales,Home and Electronics
+Female,19,20000,Sheetal Nagar, Mira road,Amazon,UPI,3000,During festivals,Fashion and Lifestyle
+Female,45,75000,Santacruz, Mumbai,Zivame,UPI,7000,During festivals,Personal health and grooming
+Others,24,20000,Tiwari nagar, Mira road,Flipkart,Cash,3000,During festivals,Home and Electronics
+Others,35,50000,Lajpat Nagar, Bhayandar,h&m,Credit Card,10000,Regularly,Fashion and Lifestyle
+Others,25,75000,Uganda, Virar,Urbanic,Cash,5000,During festivals,Groceries
+Male,23,20000,Kiki nagar, Dadar,Zara,Debit Card,3000,Does not matter,Personal health and grooming
+Others,43,20000,Colaba, Churchgate,Zivame,UPI,5000,Does not matter,Fashion and Lifestyle
+Male,20,75000,Malwani, Mumbai,Flipkart,Cash,3000,During festivals,Fashion and Lifestyle
+Others,31,50000,Sea link, Bandra,Zivame,Credit Card,5000,Regularly,Fashion and Lifestyle
+Female,36,20000,Hsg soceity, Nallasopara,Meeshooo,Net Banking,3000,During festivals,Fashion and Lifestyle
+Others,34,50000,Tiwari Pur, Mira road,Ajio,UPI,5000,Does not matter,Fashion and Lifestyle
+Others,45,75000,Ghatkopar, Mulund,Meeshooo,Debit Card,7000,During Sales,Personal health and grooming
+Others,33,75000,Tikar, Kandivali,Flipkart,Cash,10000,Regularly,"TV's, appliances"
+Others,54,50000,Choupati, Andheri,Big Basket,Cash,5000,Does not matter,Home and Electronics
+Female,34,50000,Jk nagar, Delhi,prada,Debit Card,10000,Regularly,baby
+Male,30,100000,Western line, Vasai,Zara,Credit Card,10000,During festivals,Personal health and grooming
+Others,51,75000,Ujwal, Kandivali,Meeshooo,Cash,10000,Does not matter,Groceries
+Others,30,75000,Naya Bazar, Raipur,h&m,Cash,7000,Does not matter,Personal health and grooming
+Female,20,50000,Shanti nagar, Mira road,Amazon,UPI,3000,Regularly,Fashion and Lifestyle
+Female,20,75000,Charkopnaka, Mumbai,Amazon,Cash,5000,During festivals,Fashion and Lifestyle
+Others,30,20000,Professor Hulk, Bhayandar,Urbanic,Debit Card,7000,Regularly,Fashion and Lifestyle
+Male,80,50000,Marine lines, Churchgate,Amazon,UPI,7000,Regularly,"TV's, appliances"
+Others,21,20000,Girgaon, Churchgate,Ajio,Cash,3000,During Sales,Personal health and grooming
+Others,21,20000,Steel Factory, Andheri,Zivame,Cash,5000,Does not matter,Groceries
+Others,22,50000,Ujwala, Navi-Mumbai,Urbanic,UPI,5000,Does not matter,Home and Electronics
+Others,23,20000,Borivali, Mumbai,Urbanic,Cash,5000,Regularly,"Computer, mobile, accessories"
+Male,26,50000,Charni road, Churchgate,Amazon,Cash,5000,Does not matter,kindle book
+Others,32,50000,Matunga, Mumbai,Zivame,Debit Card,7000,Does not matter,Fashion and Lifestyle
+Others,54,75000,Panata, Pritampura,Ajio,UPI,7000,Regularly,Personal health and grooming
+Female,25,50000,Didinagar, Ram Mandir,Amazon,Credit Card,3000,Regularly,kindle book
+Others,22,50000,Dadar, Mumbai,Urbanic,Debit Card,7000,During Sales,Fashion and Lifestyle
+Others,32,100000,Restband, Pratam,Urbanic,Debit Card,7000,Regularly,"Computer, mobile, accessories"
+Others,45,50000,Raipur, Banaras,Zivame,Cash,5000,Regularly,Personal health and grooming
